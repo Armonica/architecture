@@ -49,31 +49,57 @@ There is any way to autoload them based on `package.json`? (in the spirit of Hap
 - Authentication API
  
 #### Inspiration or usage
+
 https://github.com/wrangr/hapi-prerender
+
 https://github.com/kusha1988/Bachbone-and-Hapi
+
 https://github.com/zetxx/hapi-droutes
+
 https://github.com/poeticninja/hapi-plugin-lifecycle
+
 https://github.com/Caligone/hapi-brickloader-demo
+
 https://github.com/thegoleffect/actin
+
 https://github.com/fhemberger/hapi-jsonapi
+
 https://github.com/accosine/hapi-relax
+
 https://github.com/SMARTDATASYSTEMSLLC/boilerplate-hapi
+
 https://github.com/abiee/es6-hapijs
+
 https://github.com/ubaltaci/hapi-plugin-boilerplate
+
 https://github.com/firstandthird/hapi-auto-loader
+
 https://github.com/lucadv/hapi-mongo-restful-service
+
 https://github.com/hapijs/inert
+
 https://github.com/mark-bradshaw/mrhorse
+
 https://github.com/kashishgupta1990/HapiMongooseBoilerplate
+
 https://github.com/jedireza/frame
+
 https://github.com/Cron-J/User-Tenant
+
 https://github.com/Newbourne/node-iso-browserify
+
 https://github.com/stevenjmarsh/hapi-starting-point
+
 https://github.com/Jasonspd/template-hapi
+
 https://github.com/johnmanko/hapi-socketio-router
+
 https://github.com/validkeys/hapi-skeleton
+
 https://github.com/ben-bradley/generator-chop
+
 https://github.com/ben-bradley/generator-ham
+
 https://github.com/FernandoCagale/hapi-api
 
 
