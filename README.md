@@ -1,5 +1,16 @@
     NOTE: For the moment I'm alone on this trip, so if you're waiting to use this is clearly too soon.
 
+# TOC
+
+Everything should be spliced in files
+
+- Global Ideas
+- Principles
+- Monetization
+- Server side
+- Client side
+
+
 # Architecture
 
 Describing what I want to do in my freetime and when I want to work on something.
