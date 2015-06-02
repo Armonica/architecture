@@ -1,4 +1,12 @@
-    NOTE: For the moment I'm alone on this trip, so if you're waiting to use this is clearly too soon.
+  NOTE:
+   
+    For the moment I'm alone on this trip, so if you're waiting to use this is clearly too soon.
+    
+    I'm searching for people that think this trip is relevant and wants to participate. 
+    
+    Lets try thinking the same way.
+    
+    
 
 # TOC
 
