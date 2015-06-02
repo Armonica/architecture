@@ -20,6 +20,8 @@ Don't know if ES6 or TS, yet. Edge versions to be used. As IE11 end of support l
 
 Thinking like MeanJS, just a bit different. Something already done?
 
+Dependency Injection, Swagger, REST, Sync, microdervices
+
 ## Principles
 
 - code reuse (that would be difficult in some situations)
