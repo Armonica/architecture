@@ -2,9 +2,11 @@
    
     For the moment I'm alone on this trip, so if you're waiting to use this is clearly too soon.
     
-    I'm searching for people that think this trip is relevant and wants to participate. 
+    I'm searching for people that think this trip is relevant and wants to participate.
     
     Lets try thinking the same way.
+    
+    No `Grammar Nazi`, No killing procedures, No best practices, lets innovate and be cool. 
     
     
 
@@ -52,8 +54,11 @@ Compatibility with desktop application build tools as Cordova, XDK, etc.
 - NO monolith
 - only one html file
 - offline first
-- hyper-modular (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.)
+- hyper-modularity (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.), plugability and flexibility.
 - Everything is replaceable. Of course, is not, but most of the things.
+- DRY KISS with some limits, mainly because we aim complex behaviours.
+- Flexible architecture that allows fast library update.
+- World Peace
 
 ## Monetization
 
@@ -63,6 +68,11 @@ To find and expose solutions for that.
 
 ## Server side
 
+Modularity should allow flexibility and drop-in replacements.
+
+Would be interesting that models will deliver directly full CRUD and stuff (validation, schemas, etc.).
+ 
+
 ### Techno
 
 - NodeJS or IO.js
@@ -70,6 +80,7 @@ To find and expose solutions for that.
 - Mongoose or Dogwater
 - Redis
 - MariaDB and connected
+- In fact would be interesting to be able to connect to as many DB as you want.
 
 ### TODOs
 
@@ -141,7 +152,7 @@ https://github.com/FernandoCagale/hapi-api
 
 ## Client side
 
-To creat shims that enhance the current existing libraries
+To create shims that enhance the current existing libraries
 
 ### Techno
 
