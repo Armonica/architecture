@@ -10,13 +10,13 @@
 
 # TOC
 
-Everything should be spliced in files
+Everything should be spliced in files. Not ready, yet.
 
-- Global Ideas
-- Principles
-- Monetization
-- Server side
-- Client side
+- [Global Ideas](https://github.com/Armonica/architecture/tree/master/client)
+- [Principles](https://github.com/Armonica/architecture/tree/master/principles)
+- [Monetization](https://github.com/Armonica/architecture/tree/master/monetization)
+- [Server side](https://github.com/Armonica/architecture/tree/master/server)
+- [Client side](https://github.com/Armonica/architecture/tree/master/client)
 
 
 # Architecture
