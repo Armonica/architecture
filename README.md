@@ -106,6 +106,8 @@ https://github.com/FernandoCagale/hapi-api
 
 ## Client side
 
+To creat shims that enhance the current existing libraries
+
 ### Techno
 
 - MarionetteJS (Backbone)
@@ -120,6 +122,23 @@ https://github.com/FernandoCagale/hapi-api
 - Gulp
 - Browserify or ...
 - Material + Bootstrap
+
+#### Inspiration or usage
+
+https://github.com/marionettejs/backbone-metal
+
+https://github.com/thejameskyle/backbone.service
+
+https://github.com/uplift/ExoSuit
+
+https://github.com/mpneuried/iggy
+
+https://github.com/muraken720/es6-backbone
+
+https://github.com/thejameskyle/marionette-wires
+
+https://github.com/thejameskyle/backbone-metal-classify
+
 
 ### TODOs
 
