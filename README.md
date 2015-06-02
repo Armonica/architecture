@@ -1,6 +1,6 @@
 # Architecture
 
-Describing what I want to do in my freetime and I want.
+Describing what I want to do in my freetime and when I want to work on something.
 
 Some dreams that I hope it will happen sometime.
 
@@ -12,17 +12,17 @@ Sample apps should be built, generators for components and a website. (sry, no Y
 
 As I hope I'll have something done next year IE9 is for the moment the lowest target. 
 
-Don't know if ES6 or TS, yet.
+Don't know if ES6 or TS, yet. Edge versions to be used.
 
 Thinking like MeanJS, just a bit different. Something already done?
 
 ## Principles
 
 - code reuse (that would be difficult in some situations)
-- No monomith
+- NO monolith
 - only one html file
 - offline first
-- hyper-modular (I was asked why I'm using `hyper` because `modular` is arhi-sufficient. No, is not)
+- hyper-modular (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.)
 
 ## Server side
 
@@ -51,6 +51,13 @@ There is any way to autoload them based on `package.json`? (in the spirit of Hap
 ### Techno
 
 - MarionetteJS (Backbone)
+ 0. here comes the struggle, to find the right combination of libs
+ 1. Marionette Toolkit
+ 2. Blazer
+ 3. RSVP
+ 4. jQuery
+ 5. Underscore
+ 6. Nested collections or find a valid lib for data
 - Handlebars
 - Gulp
 - Browserify or ...
