@@ -6,7 +6,7 @@
     
     Lets try thinking the same way.
     
-    No `Grammar Nazi`, No killing procedures, No best practices, lets innovate and be cool. 
+    No `Grammar Nazi`, No killing procedures, No best practices (but ours), lets innovate and be cool. 
     
     
 
