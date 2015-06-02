@@ -45,26 +45,28 @@ Thinking like MeanJS, just a bit different. Something already done?
 
 Dependency Injection, Swagger, REST, Sync, microdervices
 
-Compatibility with desktop application build tools as Cordova, XDK, etc.
+Compatibility with desktop application build tools as Cordova, XDK, etc. Vagrant and Docker for development and deployment.
 
 
 ## Principles
 
 - code reuse (that would be difficult in some situations)
 - NO monolith
+- Cyclic architecture review
 - only one html file
-- offline first
+- offline first, mobile first
 - hyper-modularity (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.), plugability and flexibility.
 - Everything is replaceable. Of course, is not, but most of the things.
 - DRY KISS with some limits, mainly because we aim complex behaviours.
 - Flexible architecture that allows fast library update.
+- Best of breed? Not necessary. But best fit to stack.  
 - World Peace
 
 ## Monetization
 
 Of course, is an open sourced project, but unfortunately we have to eat and grow our children.
 
-To find and expose solutions for that.
+To find and expose solutions for that. (ads, hosting stacks)
 
 ## Server side
 
@@ -80,13 +82,15 @@ Would be interesting that models will deliver directly full CRUD and stuff (vali
 - Mongoose or Dogwater
 - Redis
 - MariaDB and connected
-- In fact would be interesting to be able to connect to as many DB as you want.
+- In fact would be interesting to be able to connect to as many DB as wanted.
 
 ### TODOs
 
 #### Main app
 
 - Knows to load plugins/modules/components/etc, the heck I want to name it
+- Plugins delivers a default config.
+- Knows to deliver static files and data depending on plugins
 
 #### Components
 
@@ -152,7 +156,7 @@ https://github.com/FernandoCagale/hapi-api
 
 ## Client side
 
-To create shims that enhance the current existing libraries
+To create shims that enhance the current existing libraries.
 
 ### Techno
 
@@ -160,7 +164,7 @@ To create shims that enhance the current existing libraries
  0. here comes the struggle, to find the right combination of libs
  1. Marionette Toolkit
  2. Blazer
- 3. RSVP
+ 3. Forms or Freeform
  4. jQuery
  5. Underscore
  6. Nested collections or find a valid lib for data
@@ -168,6 +172,9 @@ To create shims that enhance the current existing libraries
 - Gulp
 - Browserify or ...
 - Material + Bootstrap
+- RSVP
+- BasketJS
+- ParsleyJS
 
 #### Inspiration or usage
 
