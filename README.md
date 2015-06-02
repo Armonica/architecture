@@ -1,6 +1,6 @@
 # Architecture
 
-Describing what I want to do
+Describing what I want to do in my freetime and I want.
 
 Some dreams that I hope it will happen sometime.
 
@@ -8,8 +8,21 @@ Some dreams that I hope it will happen sometime.
 
 A full stack that registers itself each component, as independent as possible. I have to find the right balance. Every component is API or UI, there can be components that mix the two by only combining two separate components.
 
-Sample apps should be built, generators for components and a website. (sry, no Yo)
+Sample apps should be built, generators for components and a website. (sry, no Yo, Slush?)
 
+As I hope I'll have something done next year IE9 is for the moment the lowest target. 
+
+Don't know if ES6 or TS, yet.
+
+Thinking like MeanJS, just a bit different. Something already done?
+
+## Principles
+
+- code reuse (that would be difficult in some situations)
+- No monomith
+- only one html file
+- offline first
+- hyper-modular (I was asked why I'm using `hyper` because `modular` is arhi-sufficient. No, is not)
 
 ## Server side
 
@@ -53,4 +66,5 @@ Independent components that loads when needed. CommonJS for apps, globals for th
 - A base app that generates the main content and knows to load the rest
 
 - Authentication UI
- 
+- Data grids and forms generated from schema
+
