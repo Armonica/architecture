@@ -6,6 +6,8 @@ Describing what I want to do in my freetime and when I want to work on something
 
 Some dreams that I hope it will happen sometime.
 
+Clearly the aim is to have a complex stuff managed in the simplest way and that can scale up and down.
+
 ## Global ideas
 
 A full stack that registers itself each component, as independent as possible. I have to find the right balance. Every component is API or UI, there can be components that mix the two by only combining two separate components.
