@@ -1,4 +1,4 @@
-    NOTE: For the moment I'm alone on this trip, so if you're waiting to use this is clealy too soon.
+    NOTE: For the moment I'm alone on this trip, so if you're waiting to use this is clearly too soon.
 
 # Architecture
 
