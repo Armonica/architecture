@@ -156,3 +156,9 @@ Independent components that loads when needed. CommonJS for apps, globals for th
 - Authentication UI
 - Data grids and forms generated from schema
 
+
+#### Other links
+
+https://github.com/bloglovin/timplan
+
+https://github.com/pago/hapi-pioc
