@@ -10,6 +10,8 @@ Clearly the aim is to have a complex stuff managed in the simplest way and that 
 
 ## Global ideas
 
+JS only target.
+
 A full stack that registers itself each component, as independent as possible. I have to find the right balance. Every component is API or UI, there can be components that mix the two by only combining two separate components.
 
 Sample apps should be built, generators for components and a website. (sry, no Yo, Slush?)
@@ -21,6 +23,9 @@ Don't know if ES6 or TS, yet. Edge versions to be used. As IE11 end of support l
 Thinking like MeanJS, just a bit different. Something already done?
 
 Dependency Injection, Swagger, REST, Sync, microdervices
+
+Compatibility with desktop application build tools as Cordova, XDK, etc.
+
 
 ## Principles
 
