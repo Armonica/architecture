@@ -34,6 +34,7 @@ Thinking like MeanJS, just a bit different. Something already done?
 - HapiJS
 - Mongoose or Dogwater
 - Redis
+- MariaDB and connected
 
 ### TODOs
 
