@@ -29,6 +29,7 @@ Dependency Injection, Swagger, REST, Sync, microdervices
 - only one html file
 - offline first
 - hyper-modular (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.)
+- Everything is replaceable. Of course, is not, but most of the things.
 
 ## Server side
 
