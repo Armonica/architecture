@@ -31,6 +31,12 @@ Dependency Injection, Swagger, REST, Sync, microdervices
 - hyper-modular (I was asked why I'm using `hyper` because `modular` is `arhi`-sufficient. No, is not. I have to find the right words to explain my view.)
 - Everything is replaceable. Of course, is not, but most of the things.
 
+## Monetization
+
+Of course, is an open sourced project, but unfortunately we have to eat and grow our children.
+
+To find and expose solutions for that.
+
 ## Server side
 
 ### Techno
