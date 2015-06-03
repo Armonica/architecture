@@ -50,6 +50,7 @@ Compatibility with desktop application build tools as Cordova, XDK, etc. Vagrant
 
 ## Principles
 
+- end to end JSON Schema
 - code reuse (that would be difficult in some situations)
 - NO monolith
 - Cyclic architecture review
