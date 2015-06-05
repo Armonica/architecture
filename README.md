@@ -9,7 +9,7 @@
     No `Grammar Nazi`, No killing procedures, No best practices (but ours), lets innovate and be cool. 
     
 
-It's about a normal Armonica but, maybe, more about the Glass Armonica.
+It's about a normal Armonica but, maybe, more about the [Glass Armonica](http://en.wikipedia.org/wiki/Glass_harmonica).
 
 ![Glass Armonica](http://upload.wikimedia.org/wikipedia/commons/b/b5/Glassharmonica.png)
 
