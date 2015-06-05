@@ -9,6 +9,10 @@
     No `Grammar Nazi`, No killing procedures, No best practices (but ours), lets innovate and be cool. 
     
 
+It's about a normal Armonica but, maybe, more about the Glass Armonica.
+
+![Glass Armonica](http://upload.wikimedia.org/wikipedia/commons/b/b5/Glassharmonica.png)
+
 # Architecture
 
 Describing what I want to do in my freetime and when I want to work on something.
