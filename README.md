@@ -45,9 +45,36 @@ Taking that in consideration starting from a full API example and a way to load 
 Thinking that found libraries are not complete or does not fit perfectly the needs of this project, those libraries can be forked and improved. 
 
 As the server-side of the application will be full API, JWT authentication makes sense and few seeds can be used:
-https://github.com/Cron-J/JWT-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password
-https://github.com/Cron-J/JWT-Hapi-Mongoose-Mongodb
-https://github.com/viniciusbo/hapi-suricate
+- https://github.com/Cron-J/JWT-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password
+- https://github.com/Cron-J/JWT-Hapi-Mongoose-Mongodb
+- https://github.com/viniciusbo/hapi-suricate
+
+,
+
+- https://github.com/ggoodwin37/skel
+- https://github.com/deepakshrma/HapiMongooseBoilerplate
+- https://github.com/Yozdude/nodejs_base
+- https://github.com/MaxKrog/iFridge
+- https://github.com/imperodesign/clever
+- https://github.com/seeden/mongoose-storage
+- https://github.com/machard/mastoose
+- https://github.com/moajs/mongoosedao
+- https://github.com/capaj/Moonridge
+
+Exposing the Mongoose model through Hapi
+- https://github.com/sakoh/hapi-mongoose-controller
+
+In terms of security some ideas can be found here:
+- https://github.com/seeden/mongoose-hrbac
+- https://github.com/forrert/mongoose-model-security
+- https://github.com/corymickelson/mongooseAcl
+- https://github.com/scttnlsn/mongoose-acl
+- https://github.com/jCatalog/user-tenant-security
+- https://github.com/paperhive/mongoose-authorize
+
+Other helpers that can be used:
+- https://github.com/atsid/mongoose-organizer
+- https://github.com/jraede/mongoose-multitenant
 
 
 ---
