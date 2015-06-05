@@ -22,7 +22,7 @@ Clearly the aim is to have a complex stuff managed in the simplest way and that 
 
 Everything should be spliced in files. Not ready, yet.
 
-- [Global Ideas](https://github.com/Armonica/architecture/tree/master/client)
+- [Global Ideas](https://github.com/Armonica/architecture/tree/master/ideas)
 - [Principles](https://github.com/Armonica/architecture/tree/master/principles)
 - [Monetization](https://github.com/Armonica/architecture/tree/master/monetization)
 - [Server side](https://github.com/Armonica/architecture/tree/master/server)
